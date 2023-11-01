@@ -3,9 +3,9 @@ import { TodosList } from './TodosList'
 
 const Todos = () => {
     return (
-        <main className="flex min-h-screen flex-col items-center justify-between p-24">
-            <TodosList />
-        </main>
+        <div>
+            <h1>This is where the todos will be displayed...</h1>
+        </div>
     )
 }
 
